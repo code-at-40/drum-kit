@@ -1,14 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" type="text/css" href="../css/style.css">
-  <script src="../js/index.js"></script>
-</head>
-<body>
-  <h1>hello world!</h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drum Kit</title>
+    <link rel="stylesheet" type="text/css" href="../css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <script src="../js/index.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header__title">JavaScript 30 challenges | day #1 | DRUM KIT</h1>
+    </header>
+
+    <div class="drum">
+      <div class="drum__component component-a">
+        <p class="drum__component-letter">A</p>
+        <p class="drum__component-description">CLAP</p>
+      </div>
+
+      <div class="drum__component component-s">
+        <p class="drum__component-letter">S</p>
+        <p class="drum__component-description">BASS</p>
+      </div>
+
+      <div class="drum__component component-d">
+        <p class="drum__component-letter">D</p>
+        <p class="drum__component-description">COW</p>
+      </div>
+
+      <div class="drum__component component-f">
+        <p class="drum__component-letter">F</p>
+        <p class="drum__component-description">SD</p>
+      </div>
+
+      <div class="drum__component component-g">
+        <p class="drum__component-letter">G</p>
+        <p class="drum__component-description">TOM</p>
+      </div>
+    </div>
+
+    <audio class="audio-a" src="../assets/audio/clap.wav"></audio>
+    <audio class="audio-s" src="../assets/audio/bass.wav"></audio>
+    <audio class="audio-d" src="../assets/audio/cow.wav"></audio>
+    <audio class="audio-f" src="../assets/audio/sd.wav"></audio>
+    <audio class="audio-g" src="../assets/audio/tom.wav"></audio>
+  </body>
 </html>

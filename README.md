@@ -1,16 +1,10 @@
 # Project Title
 
-Template to have an up and running project using HTML5 CSS3 JavaScript and SASS
+JavaScript 30 challenges | day #1 | Drum Kit
 
 ## Getting Started
 
-These instructions will get you a copy of the template.
-
-Remember to delete the existing README.md file and rename and update the README-template.md file.
-
-You need to have installed SASS in your local machine to be able to compile the scss file in css.
-
-If you don't need to use SASS, delete the 'scss' folder and edit the 'style.css' file directly.
+If you want to edit this repo, you need to have installed SASS in your local machine to be able to compile the scss file in css.
 
 ### Prerequisites
 
@@ -20,7 +14,7 @@ To install SASS, from you terminal run
 npm install -g sass
 ```
 
-or download the package for your operating system from [GitHub](https://github.com/sass/dart-sass/releases/tag/1.32.8) and [add it to your PATH](https://katiek2.github.io/path-doc/).
+or download the package for your operating system from GitHub and add it to your PATH.
 
 When SASS is installed, to compile your 'scss' file to 'css' run from your terminal
 
@@ -45,6 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Wes Bos](https://twitter.com/wesbos) to have created the [JavaScript30](https://javascript30.com/) coding challenge
