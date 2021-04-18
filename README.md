@@ -2,6 +2,8 @@
 
 JavaScript 30 challenges | day #1 | Drum Kit
 
+See how it works [here](https://codepen.io/alecorra/pen/rNjZaYW).
+
 ## Getting Started
 
 If you want to edit this repo, you need to have installed SASS in your local machine to be able to compile the scss file in css.
