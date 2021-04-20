@@ -2,7 +2,7 @@
 
 JavaScript 30 challenges | day #1 | Drum Kit
 
-See how it works [here](https://codepen.io/alecorra/pen/rNjZaYW).
+See how it works [here](https://codepen.io/codeat40/pen/rNjZaYW).
 
 ## Getting Started
 
