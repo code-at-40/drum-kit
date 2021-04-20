@@ -1,4 +1,4 @@
-# Project Title
+# Drum kit
 
 JavaScript 30 challenges | day #1 | Drum Kit
 
